@@ -6,7 +6,7 @@ This is a simple and responsive  website built using HTML & CSS .
 
 ## 🌐 Live Demo
 
-[View Website](https://albraanawara.github.io/template1/)
+[View Website](https://albraanawara.github.io/template2/)
 
 ## 📁 Project Structure
 
